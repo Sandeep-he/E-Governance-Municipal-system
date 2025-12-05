@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@lourenci/react-kanban": "^2.1.0",
+    "@mui/lab": "^5.0.0-alpha.105",
+    "@mui/material": "^5.10.11",
+    "bootstrap": "^5.2.2",
+    "concurrently": "^7.5.0",
+    "react-bootstrap": "^2.5.0"
+  }
+}
