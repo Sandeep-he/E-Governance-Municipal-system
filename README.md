@@ -119,9 +119,16 @@ http://localhost:3000
 
 # 🖼️ Screenshots
 - Citizen Home Page
+![Citizen Home](screenshots/CitizenHome.png)
+
 - Employee Dashboard
+![Employee Dashboard](screenshots/EmployeeDash.png)
+
+- Admin ToDo
+![Admin Dashboard](screenshots/ToDo.png)
+
 - Admin Dashboard
-- Complaint Assignment Panel
+![Task Assign](screenshots/AdminDash.png)
 
 # 📘 Documentation Included
 - ER Diagram
